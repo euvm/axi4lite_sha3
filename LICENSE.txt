@@ -1,0 +1,5 @@
+The code in rtl folder has been downloaded from http://cryptech.is project site. It is covered under its original license available in the rtl directory.
+
+The code under testbench/tiny_sha3 folder has been replicated from the github repository https://github.com/mjosaarinen/tiny_sha3.git. It is covered under its original license available in the testbench/tiny_sha3 folder.
+
+The rest of the testbench is being made available undet the Boost Software License Version 1.0.
